@@ -3,7 +3,8 @@ A funny script that usings pyautogui to act as if the computer has been infected
 RUN AT YOUR OWN RISK..
 
 
-
+DISCLAIMER:
+This is not a virus! Simplying testing out the PyAutoGUI libraries to learn more about how to command a computer using Python :D
 
 
 SPOILER:
